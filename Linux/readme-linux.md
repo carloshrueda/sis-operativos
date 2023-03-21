@@ -7,4 +7,4 @@ Este repositorio está dedicado al sistema operativo Linux
 El contenido ha sido distribuido en als siguientes categorias:
 
 ### Categorias
-* [Comandos útiles]([#](https://github.com/carloshrueda/sis-operativos/blob/9a4a7161768d1e217bf74d26166b6c75f99638eb/Linux/comandosutiles.md))
+* [Comandos útiles](https://github.com/carloshrueda/sis-operativos/blob/9a4a7161768d1e217bf74d26166b6c75f99638eb/Linux/comandosutiles.md)
