@@ -1,6 +1,6 @@
 ![Consola linux](https://th.bing.com/th/id/OIP.Zg6Q71EVQPclaXHa1nk2-QAAAA?pid=ImgDet&rs=1)
 
-# COMANDOS UTILES
+# COMANDOS UTILES 
 
 Aqui listo una serie de comandos, snippets y trucos útiles en el sistemas operativo ```Linux```.
 
