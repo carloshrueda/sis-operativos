@@ -6,7 +6,7 @@
 Repositorio de trabaja en ```Sistemas Operativos```
 
 ## Contenido
-* [Linux](https://github.com/carloshrueda/sis-operativos/blob/9a4a7161768d1e217bf74d26166b6c75f99638eb/Linux/readme.md)
+* [Linux](https://github.com/carloshrueda/sis-operativos/blob/ed06ffe9e0fed0af2ce627962d01848782e1b0de/Linux/readme.md)
 
 * Windows
   
