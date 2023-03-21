@@ -1,4 +1,4 @@
-# COMANDOS UTILES LINUX
+# COMOANDOS UTILES
 
 Aqui listo una serie de comandos, snippets y trucos útiles en el sistemas operativo ```Linux```.
 
