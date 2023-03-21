@@ -1,3 +1,5 @@
+![Sistemas operativos](https://sites.google.com/site/binariopc/_/rsrc/1408219942197/servicios/sistemas_operativos/SO_banner.PNG)
+
 # SISTEMAS OPERATIVOS
 
 ## Introduccion
